@@ -13,12 +13,13 @@
   <sub>MSc Data Science and Society @ Tilburg University &middot; MSc International Business @ University of Queensland</sub>
 </p>
 
-```text
->_ lab coordinates
-sense      public events | ports | networks | weak signals
-model      LANTF | ML | NLP | network features | diagnostics
-predict    risk | disruption | change
-```
+## >_ Lab coordinates
+
+| Mode | Signals |
+| --- | --- |
+| sense | public events &middot; ports &middot; networks &middot; weak signals |
+| model | LANTF &middot; ML &middot; NLP &middot; network features &middot; diagnostics |
+| predict | risk &middot; disruption &middot; change |
 
 ## >_ Site dossier
 
