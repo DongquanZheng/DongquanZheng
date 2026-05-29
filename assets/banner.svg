@@ -35,13 +35,15 @@
   <rect width="1400" height="360" rx="18" fill="url(#bg)"/>
   <rect width="1400" height="360" rx="18" fill="url(#grid)"/>
   <rect width="1400" height="360" rx="18" fill="url(#centerGlow)"/>
+
+  <g transform="translate(700 180) scale(1.075) translate(-700 -180)">
   <rect x="18" y="18" width="1364" height="324" rx="14" stroke="#6EE7B7" stroke-opacity="0.18"/>
   <rect x="42" y="40" width="1316" height="280" rx="9" stroke="#60A5FA" stroke-opacity="0.12"/>
 
   <g text-anchor="middle">
     <text x="525" y="82" fill="#34D399" font-family="Consolas, 'Liberation Mono', monospace" font-size="31" letter-spacing="9">SIGNAL LAB</text>
     <text x="525" y="158" fill="#F4FAFF" font-family="Consolas, 'Liberation Mono', monospace" font-size="52" font-weight="700" letter-spacing="2">DONGQUAN ZHENG</text>
-    <text x="525" y="205" fill="#7DD3FC" font-family="Consolas, 'Liberation Mono', monospace" font-size="24">ML · NLP · NETWORK INTELLIGENCE · LANTF</text>
+    <text x="525" y="205" fill="#7DD3FC" font-family="Consolas, 'Liberation Mono', monospace" font-size="24">ML / NLP / NETWORK INTELLIGENCE / LANTF</text>
     <text x="525" y="250" fill="#8BFFF0" font-family="Consolas, 'Liberation Mono', monospace" font-size="20">sense -> model -> predict</text>
   </g>
 
@@ -88,5 +90,6 @@
     <path d="M738 128H812M758 158H834M724 188H800" stroke="#7DD3FC"/>
     <path d="M1228 242V218M1246 242V202M1264 242V228M1282 242V192" stroke="#6EE7B7" stroke-width="3"/>
     <path d="M1218 242H1292" stroke="#7DD3FC" stroke-opacity="0.42"/>
+  </g>
   </g>
 </svg>
